@@ -1,0 +1,17 @@
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\bin\Debug\TAssistant.exe.config
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\bin\Debug\TAssistant.exe
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\bin\Debug\TAssistant.pdb
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.csprojResolveAssemblyReference.cache
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.Form1.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.Properties.Resources.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.csproj.GenerateResource.Cache
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.exe
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.pdb
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.Register.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MySchedule.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MyCourses.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MyNotes.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MyExams.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MyAttendance.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.Report.resources
+D:\AUST CSE\3.2\SDProject\TAssistant\TAssistant\obj\Debug\TAssistant.MyDashboard.resources
